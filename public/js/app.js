@@ -22115,6 +22115,29 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
 
 /***/ }),
 
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/User/User.vue?vue&type=template&id=5d4f1cd6":
+/*!**************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/User/User.vue?vue&type=template&id=5d4f1cd6 ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* binding */ render)
+/* harmony export */ });
+/* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
+
+
+var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"row\"><div class=\"col-md-6 mb-3\"><div class=\"card h-100\"><div class=\"card-body\"><h5 class=\"card-title\">Block styled form</h5><!-- Block styled form --><form class=\"row g-3\"><div class=\"col-md-6\"><label for=\"_dm-inputEmail2\" class=\"form-label\">Email</label><input id=\"_dm-inputEmail2\" type=\"email\" class=\"form-control\"></div><div class=\"col-md-6\"><label for=\"_dm-inputPassword2\" class=\"form-label\">Password</label><input id=\"_dm-inputPassword2\" type=\"password\" class=\"form-control\"></div><div class=\"col-12\"><label for=\"_dm-inputAddress\" class=\"form-label\">Address</label><input id=\"_dm-inputAddress\" type=\"text\" class=\"form-control\" placeholder=\"1234 Main St\"></div><div class=\"col-12\"><label for=\"_dm-inputAddress2\" class=\"form-label\">Address 2</label><input id=\"_dm-inputAddress2\" type=\"text\" class=\"form-control\" placeholder=\"Apartment, studio, or floor\"></div><div class=\"col-md-6\"><label for=\"_dm-inputCity\" class=\"form-label\">City</label><input id=\"_dm-inputCity\" type=\"text\" class=\"form-control\"></div><div class=\"col-md-4\"><label for=\"inputState\" class=\"form-label\">State</label><select id=\"inputState\" class=\"form-select\"><option selected=\"\">Choose...</option><option>State 1</option><option>State 2</option><option>State 3</option></select></div><div class=\"col-md-2\"><label for=\"_dm-inputZip\" class=\"form-label\">Zip</label><input id=\"_dm-inputZip\" type=\"text\" class=\"form-control\"></div><div class=\"col-12\"><div class=\"form-check\"><input id=\"_dm-gridCheck\" class=\"form-check-input\" type=\"checkbox\"><label for=\"_dm-gridCheck\" class=\"form-check-label\"> Check me out </label></div></div><div class=\"col-12\"><button type=\"submit\" class=\"btn btn-primary\">Sign in</button></div></form><!-- END : Block styled form --></div></div></div><div class=\"col-md-6 mb-3\"><div class=\"card h-100\"><div class=\"card-body\"><h5 class=\"card-title\">Horizontal form</h5><!-- Horizontal Form --><form><div class=\"row mb-3\"><label for=\"inputEmail3\" class=\"col-sm-2 col-form-label\">Email</label><div class=\"col-sm-10\"><input type=\"email\" class=\"form-control\" id=\"inputEmail3\"></div></div><div class=\"row mb-3\"><label for=\"inputPassword3\" class=\"col-sm-2 col-form-label\">Password</label><div class=\"col-sm-10\"><input type=\"password\" class=\"form-control\" id=\"inputPassword3\"></div></div><div class=\"row mb-3\"><label for=\"_dm-inputAddress3\" class=\"col-sm-2 form-label\">Address</label><div class=\"col-sm-10\"><input id=\"_dm-inputAddress3\" type=\"text\" class=\"form-control\" placeholder=\"1234 Main St\"></div></div><div class=\"row mb-3\"><label for=\"_dm-inputAddress4\" class=\"col-sm-2 col-form-label\">Address 2</label><div class=\"col-sm-10\"><input id=\"_dm-inputAddress4\" type=\"text\" class=\"form-control\" placeholder=\"Apartment, studio, or floor\"></div></div><div class=\"row mb-3\"><label for=\"_dm-inputCity2\" class=\"col-sm-2 col-form-label\">City</label><div class=\"col-sm-10\"><input id=\"_dm-inputCity2\" type=\"text\" class=\"form-control\"></div></div><div class=\"row mb-3\"><div class=\"col-sm-10 offset-sm-2\"><div class=\"form-check\"><input id=\"_dm-rememberCheck3\" class=\"form-check-input\" type=\"checkbox\"><label for=\"_dm-rememberCheck3\" class=\"form-check-label\"> Remember Me </label></div></div></div><button type=\"submit\" class=\"btn btn-primary\">Sign in</button></form><!-- END : Horizontal Form --></div></div></div></div>", 1);
+
+var _hoisted_2 = [_hoisted_1];
+function render(_ctx, _cache) {
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("section", null, _hoisted_2);
+}
+
+/***/ }),
+
 /***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Welcome.vue?vue&type=template&id=317d1a6e&scoped=true":
 /*!************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Welcome.vue?vue&type=template&id=317d1a6e&scoped=true ***!
@@ -48309,6 +48332,32 @@ if (false) {}
 
 /***/ }),
 
+/***/ "./resources/js/Pages/User/User.vue":
+/*!******************************************!*\
+  !*** ./resources/js/Pages/User/User.vue ***!
+  \******************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _User_vue_vue_type_template_id_5d4f1cd6__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./User.vue?vue&type=template&id=5d4f1cd6 */ "./resources/js/Pages/User/User.vue?vue&type=template&id=5d4f1cd6");
+/* harmony import */ var C_wamp64_www_doc_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+
+const script = {}
+
+;
+const __exports__ = /*#__PURE__*/(0,C_wamp64_www_doc_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__["default"])(script, [['render',_User_vue_vue_type_template_id_5d4f1cd6__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Pages/User/User.vue"]])
+/* hot reload */
+if (false) {}
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__exports__);
+
+/***/ }),
+
 /***/ "./resources/js/Pages/Welcome.vue":
 /*!****************************************!*\
   !*** ./resources/js/Pages/Welcome.vue ***!
@@ -49052,6 +49101,22 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/js/Pages/User/User.vue?vue&type=template&id=5d4f1cd6":
+/*!************************************************************************!*\
+  !*** ./resources/js/Pages/User/User.vue?vue&type=template&id=5d4f1cd6 ***!
+  \************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_User_vue_vue_type_template_id_5d4f1cd6__WEBPACK_IMPORTED_MODULE_0__.render)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_User_vue_vue_type_template_id_5d4f1cd6__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./User.vue?vue&type=template&id=5d4f1cd6 */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/User/User.vue?vue&type=template&id=5d4f1cd6");
+
+
+/***/ }),
+
 /***/ "./resources/js/Pages/Welcome.vue?vue&type=template&id=317d1a6e&scoped=true":
 /*!**********************************************************************************!*\
   !*** ./resources/js/Pages/Welcome.vue?vue&type=template&id=317d1a6e&scoped=true ***!
@@ -49389,6 +49454,7 @@ var map = {
 	"./Auth/ResetPassword.vue": "./resources/js/Pages/Auth/ResetPassword.vue",
 	"./Auth/VerifyEmail.vue": "./resources/js/Pages/Auth/VerifyEmail.vue",
 	"./Dashboard.vue": "./resources/js/Pages/Dashboard.vue",
+	"./User/User.vue": "./resources/js/Pages/User/User.vue",
 	"./Welcome.vue": "./resources/js/Pages/Welcome.vue",
 	"./shared/Footer.vue": "./resources/js/Pages/shared/Footer.vue",
 	"./shared/Header.vue": "./resources/js/Pages/shared/Header.vue",
