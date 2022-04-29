@@ -18,17 +18,9 @@
 
     <!-- Styles -->
     <link rel="stylesheet" href="{{ mix('css/app.css') }}">
-    <!-- <link rel="stylesheet" href="{{ mix('css/main.css') }}"> -->
-
-    <!-- Bootstrap CSS [ REQUIRED ] -->
-    <!-- <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}"> -->
-
-    <!-- Nifty CSS [ REQUIRED ] -->
-    <!-- <link rel="stylesheet" href="{{asset('css/nifty.min.css')}}"> -->
-
+ 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 
-    <!-- Nifty CSS [ REQUIRED ] -->
     <link rel="stylesheet" href="assets/css/nifty.min.css">
 
     <!-- Scripts -->
@@ -49,14 +41,7 @@
     @env ('local')
     <script src="http://localhost:8080/js/bundle.js"></script>
     @endenv
-    <!-- <script src="{{ mix('js/main.js') }}"></script> -->
-
-    <!-- 
-    <script src="{{asset('js/bootstrap.min.js')}}" defer></script>
-
-    <script src="{{asset('js/nifty.min.js')}}" defer></script>
-
-    <script src="{{asset('js/dashboard-1.min.js')}}" defer></script> -->
+   
 
     <script src="assets/js/bootstrap.min.js" defer></script>
 
