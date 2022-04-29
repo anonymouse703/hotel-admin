@@ -306,7 +306,7 @@
                                 </div>
                                 <div class="flex-grow-1 ms-3">
                                     <h5 class="mb-0">Aaron Chavez</h5>
-                                    <span class="text-muted fst-italic"><a href="https://themeon.net/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5f3e3e2d3031003c373e293a251f3a273e322f333a713c3032">[email&#160;protected]</a></span>
+                                    <span class="text-muted fst-italic"><a href="https://themeon.net/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="d0b1b1a2bfbe8fb3b8b1a6b5aa90b5a8b1bda0bcb5feb3bfbd">[email&#160;protected]</a></span>
                                 </div>
                             </div>
 

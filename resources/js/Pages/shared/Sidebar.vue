@@ -1,5 +1,5 @@
 <template>
-     <aside class="sidebar">
+    <aside class="sidebar">
         <div class="sidebar__inner scrollable-content">
 
             <!-- This element is only visible when sidebar Stick mode is active. -->
@@ -122,7 +122,7 @@
 
                     <!-- Billing and Resports -->
                     <div class="px-3">
-                        <h5 class="mb-3">Billing Reports</h5>
+                        <h5 class="mb-3">Billing &amp Reports</h5>
                         <p>Get <span class="badge bg-danger">$15.00 off</span> your next bill by making sure your full payment reaches us before August 5th.</p>
 
                         <h5 class="mt-5 mb-0">Amount Due On</h5>

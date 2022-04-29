@@ -16,27 +16,28 @@ const showingNavigationDropdown = ref(false);
 </script>
 
 <template>
-    <div>
-        <div id="root" class="root mn--max hd--expanded">
+      <div>
+            <div id="root" class="root mn--max hd--expanded">
 
-            <section  id="content" class="content">
-                <main>
-                    <slot />
-                </main>     
-                <Footer/>    
-            </section>
-            
-            <Header/>
+                <section  id="content" class="content">
+                    <main>
+                        <slot />
+                    </main>     
+                    <Footer/>    
+                </section>
+                
+                <Header/>
 
-            <Navbar/>
+                <Navbar/>
 
-            <Sidebar/>
+                <Sidebar/>
+
+            </div>
+
+            <!-- SCROLL TO TOP BUTTON -->
+            <div class="scroll-container">
+                <a href="#root" class="scroll-page rounded-circle ratio ratio-1x1" aria-label="Scroll button"></a>
+            </div>
 
         </div>
-
-        <!-- SCROLL TO TOP BUTTON -->
-        <div class="scroll-container">
-            <a href="#root" class="scroll-page rounded-circle ratio ratio-1x1" aria-label="Scroll button"></a>
-        </div>
-    </div>
 </template>

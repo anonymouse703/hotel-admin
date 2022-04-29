@@ -21,6 +21,11 @@
     <!-- <link rel="stylesheet" href="{{ mix('css/main.css') }}"> -->
 
     <!-- Bootstrap CSS [ REQUIRED ] -->
+    <!-- <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}"> -->
+
+    <!-- Nifty CSS [ REQUIRED ] -->
+    <!-- <link rel="stylesheet" href="{{asset('css/nifty.min.css')}}"> -->
+
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 
     <!-- Nifty CSS [ REQUIRED ] -->
@@ -32,21 +37,31 @@
     @inertiaHead
 </head>
 
-<body class="font-sans antialiased">
+<body class="jumping">
     @inertia
+
+    <!-- SCROLL TO TOP BUTTON -->
+    <div class="scroll-container">
+        <a href="#root" class="scroll-page rounded-circle ratio ratio-1x1" aria-label="Scroll button"></a>
+    </div>
+
 
     @env ('local')
     <script src="http://localhost:8080/js/bundle.js"></script>
     @endenv
     <!-- <script src="{{ mix('js/main.js') }}"></script> -->
 
+    <!-- 
+    <script src="{{asset('js/bootstrap.min.js')}}" defer></script>
+
+    <script src="{{asset('js/nifty.min.js')}}" defer></script>
+
+    <script src="{{asset('js/dashboard-1.min.js')}}" defer></script> -->
 
     <script src="assets/js/bootstrap.min.js" defer></script>
 
-    <!-- Nifty JS [ OPTIONAL ] -->
     <script src="assets/js/nifty.min.js" defer></script>
 
-    <!-- Plugin scripts [ OPTIONAL ] -->
     <script src="assets/pages/dashboard-1.min.js" defer></script>
 
 </body>

@@ -1,5 +1,5 @@
 <template>
-     <nav id="mainnav-container" class="mainnav">
+    <nav id="mainnav-container" class="mainnav">
         <div class="mainnav__inner">
 
             <!-- Navigation menu -->
@@ -11,8 +11,8 @@
                     <div class="mt-2 d-mn-max"></div>
 
                     <!-- Profile picture  -->
-                    <div class="mininav-toggle text-center center py-2">
-                        <img class="mainnav__avatar img-md rounded-circle border"  style="display:block; margin-left:auto; margin-right:auto" src="assets/img/profile-photos/1.png" alt="Profile Picture">
+                    <div class="mininav-toggle text-center py-2">
+                        <img class="mainnav__avatar img-md rounded-circle border" src="assets/img/profile-photos/1.png" alt="Profile Picture">
                     </div>
 
                     <div class="mininav-content collapse d-mn-max">
@@ -62,11 +62,26 @@
                     <ul class="mainnav__menu nav flex-column">
 
                         <!-- Link with submenu -->
-                        <li class="nav-item">
+                        <li class="nav-item has-sub">
 
-                            <a href="#" class="mininav-toggle nav-link "><i class="demo-pli-home fs-5 me-2"></i>
+                            <a href="#" class="mininav-toggle nav-link active"><i class="demo-pli-home fs-5 me-2"></i>
                                 <span class="nav-label ms-1">Dashboard</span>
                             </a>
+
+                            <!-- Dashboard submenu list -->
+                            <ul class="mininav-content nav collapse">
+                                <li class="nav-item">
+                                    <a href="index.html" class="nav-link active">Dashboard 1</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="dashboard-2/index.html" class="nav-link">Dashboard 2</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="dashboard-3/index.html" class="nav-link">Dashboard 3</a>
+                                </li>
+
+                            </ul>
+                            <!-- END : Dashboard submenu list -->
 
                         </li>
                         <!-- END : Link with submenu -->
