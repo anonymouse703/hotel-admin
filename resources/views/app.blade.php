@@ -47,7 +47,7 @@
 
     <script src="assets/js/nifty.min.js" defer></script>
 
-    <script src="assets/pages/dashboard-1.min.js" defer></script>
+    <script src="assets/pages/dashboard-1.js" defer></script>
 
 </body>
 
